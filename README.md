@@ -12,8 +12,8 @@ Este proyecto es una réplica de un proyecto de Frontend Mentor que tiene como o
 - **CSS**: Estilos visuales y diseño responsivo.
 - **JavaScript**: Interactividad y dinámismo en la página.
 
-## Live Demo
-![Live Demo](https://loopstudios-rp11.netlify.app/)
+## Live Demo 
+**[Live Demo] (https://loopstudios-rp11.netlify.app/)**
 
 ## Preview
 ![Vista Previa](./images/design/desktop-design.jpg)
